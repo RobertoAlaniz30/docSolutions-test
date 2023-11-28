@@ -1,0 +1,23 @@
+.home-view {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+    height: 100vh;
+    padding: 5rem;
+}
+.home-top__container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.home-view form {
+    display: flex;
+    gap: 2rem;
+    height: 30px;
+}
+.home-view form input {
+    width: 400px;
+    border-radius: 8px;
+}

@@ -1,0 +1,16 @@
+.register-view {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.register-view form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 30%;
+}
+.register-view form button {
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+}

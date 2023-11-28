@@ -1,0 +1,17 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+label, table, tr, td {
+    color: black;
+}
+
+button {
+    border-radius: 8px;
+    color: grey;
+    min-width: 100px;
+}

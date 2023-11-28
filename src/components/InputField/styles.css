@@ -1,0 +1,8 @@
+.inputField__container{
+    display: flex;
+    gap: 1rem;
+}
+.inputField__container input{
+    border-radius: 8px;
+    width: 100%;
+}
